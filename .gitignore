@@ -103,4 +103,5 @@ ENV/
 # default
 */notMNIST_*
 *.pickle
+*~
 
