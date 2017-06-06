@@ -104,4 +104,5 @@ ENV/
 */notMNIST_*
 *.pickle
 *~
+*.zip
 
